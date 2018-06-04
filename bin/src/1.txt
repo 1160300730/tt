@@ -1,0 +1,10 @@
+GraphType = "GraphPoet"
+GraphName = "MyPoet"
+VertexType = ¡°Word¡±
+Vertex = <"to", "Word">
+Vertex = <"explore", "Word">
+Vertex = <"seek", "Word">
+EdgeType = "WordEdge"
+Edge = <"1", "WordEdge", "1", "to", "explore", "Yes¡±>
+Edge = <"2", "WordEdge", "1", "to", "seek", "Yes">
+Edge = <"3", "WordEdge", "1", "to", "to", "Yes">
